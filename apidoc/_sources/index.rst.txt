@@ -22,12 +22,12 @@ Contents:
    arcgis.geoenrichment
    arcgis.geometry
    arcgis.geoprocessing
-   arcgis.mapping
+   arcgis.mapping.toc
    arcgis.realtime
    arcgis.schematics
    arcgis.widgets
    arcgis.apps
-   arcgis.learn
+   arcgis.learn.toc
 
 Indices and tables
 ==================

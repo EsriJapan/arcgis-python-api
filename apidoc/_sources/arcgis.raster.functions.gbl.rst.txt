@@ -3,6 +3,10 @@ arcgis.raster.functions.gbl module
 
 .. automodule:: arcgis.raster.functions.gbl
 
+boundary_clean
+______________
+.. autofunction:: arcgis.raster.functions.gbl.boundary_clean
+
 calculate_distance
 __________________
 .. autofunction:: arcgis.raster.functions.gbl.calculate_distance
@@ -90,6 +94,10 @@ _______________
 nibble
 ______
 .. autofunction:: arcgis.raster.functions.gbl.nibble
+
+optimal_path_as_raster
+______________________
+.. autofunction:: arcgis.raster.functions.gbl.optimal_path_as_raster
 
 path_distance
 _____________
